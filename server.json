@@ -1,0 +1,27 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.designelier/mcp",
+  "title": "Designelier",
+  "description": "Generate matching icon sets, spot illustrations and transparent design assets for sites and apps.",
+  "version": "1.3.0",
+  "websiteUrl": "https://designelier.com/mcp",
+  "repository": {
+    "url": "https://github.com/miguelpieras/designelier-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://designelier.com/favicon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.designelier.com/mcp"
+    }
+  ]
+}

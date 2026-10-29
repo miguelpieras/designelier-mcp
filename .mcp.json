@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "designelier": {
+      "type": "http",
+      "url": "https://mcp.designelier.com/mcp"
+    }
+  }
+}
