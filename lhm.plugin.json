@@ -1,0 +1,17 @@
+{
+  "identifier": "designelier-mcp",
+  "name": "Designelier",
+  "version": "1.3.0",
+  "description": "Generate matching icon sets, spot illustrations and transparent design assets for sites and apps.",
+  "author": "Designelier",
+  "authorUrl": "https://designelier.com",
+  "homepage": "https://designelier.com/mcp",
+  "cloudEndpoint": "https://mcp.designelier.com/mcp",
+  "icon": "https://designelier.com/favicon.svg",
+  "tags": [
+    "icons",
+    "illustrations",
+    "design-assets",
+    "svg"
+  ]
+}
